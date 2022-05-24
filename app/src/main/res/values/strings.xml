@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">uts10119228</string>
+    <string name="MyselfApp">MyselfApps</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Welcome</string>
+    <string name="slide_1_desc">This app was created to introduce MYSELF</string>
+
+    <string name="slide_2_title">bio</string>
+    <string name="slide_2_desc">About my daily activities and hobbies</string>
+
+
+
+
+    <string name="welcome">Welcome to</string>
+    <string name="title_aboutme">Tentang Saya</string>
+    <string name="aboutme">Aplikasi Komputasi Bergerak</string>
+    <string name="namalengkap">Nama: Marvie Bastian Sampul</string>
+    <string name="nick">Marfi</string>
+    <string name="title_contactme">Contact Me</string>
+    <string name="nim">NIM: 10119228</string>
+    <string name="kelas">Kelas IF 6</string>
+    <string name="hobi">Hobi: Membuat musik dan main game </string>
+
+    <string name="title_activity">My daily activity</string>
+</resources>
